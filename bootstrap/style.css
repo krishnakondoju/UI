@@ -1,0 +1,25 @@
+.container{
+margin-top:15px;
+}
+.tab-pane{
+	padding:10px;
+	border-right:1px solid gray;
+	border-left:1px solid gray;
+	border-bottom:1px solid gray;
+}
+.tguide{
+	padding-bottom:30px;
+	
+	
+	
+}
+.services{
+	background-color:lightgreen;
+	
+	
+}
+.fa{
+	
+	
+color:blue;
+}
