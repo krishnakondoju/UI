@@ -37,6 +37,11 @@ button[type="submit"]{
     background: #41b70c;
 }
 
+button[type="submit"] :hover{
+	 border: 1px solid #ff0000;
+	 background-color: #89f55e;
+	cursor: pointer
+}
 button[type="reset"]{
     background: #f71814;
 }
@@ -80,3 +85,11 @@ ul li:nth-child(4){
 	background-color:#ff0;
 	
 }
+ form[name="newLicenseForm"] div:nth-child(1),
+ form[name="newLicenseForm"] div:nth-child(1){
+	 background-color: #fff;
+ }
+
+
+
+

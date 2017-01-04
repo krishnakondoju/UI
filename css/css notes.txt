@@ -127,11 +127,18 @@ different ways of selecting an element:
 
 1<parent> <child>
 2. nth-child
+there are several properties when we add (:) to an element in css:
+ 1.hover
+ 2.focus
+ 3.blur
+ 4.visited
+ 5.nth-child
+ 6.first-child
 
 <ul>
    <li></li>
    <li></li>
-</ul>
+</ul> 
 
 
 
